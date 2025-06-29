@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dimson dodo
-- 👀 I’m interested in software engineering innovations and projects 
+- 👀 I’m a junior software developer 
 - 🌱 I’m currently learning front-end web development
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me gmail:dimsondodo01@gmail.com mobile:+2349060600327 IG&FB: Dimson Dodo
